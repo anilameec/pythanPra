@@ -1,2 +1,3 @@
-def a():
 
+
+print("aaa")
